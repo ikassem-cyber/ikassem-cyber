@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- [Active Directory Lab](https://github.com/joshmadakor1/Algorithms-Practice)
+- [Active Directory Lab](https://github.com/ikassem-cyber/ActiveDirectoryLab)
 
 
 
