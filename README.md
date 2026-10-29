@@ -14,7 +14,3 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ibrahim_Kassem-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ibrahimkassem)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Website-2ea44f)](https://ibrahim-builds-tech.base44.app)
 
-[<img align="left" alt="Ibrahim Kassem | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-&nbsp; [Portfolio website](https://ibrahim-builds-tech.base44.app)
-
-[linkedin]: https://www.linkedin.com/in/ibrahimkassem
