@@ -3,6 +3,10 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - [IT Troubleshooting Log](https://github.com/ikassem-cyber/it-troubleshooting-log): real break/fix cases from Windows Server, WSUS, AWS, Linux and network labs
+- [Active Directory Lab](https://github.com/ikassem-cyber/ActiveDirectoryLab): users, groups, NTFS least privilege, auditing and a misconfiguration simulation
+- [WSUS Patch Management](https://github.com/ikassem-cyber/wsus-patch-management): centralized Windows patching with Group Policy
+- [Network Traffic Analysis](https://github.com/ikassem-cyber/network-traffic-analysis): tcpdump, Nmap and HTTP security on AWS
+- [AWS Database Security](https://github.com/ikassem-cyber/aws-database-security): row-level security, auditing and vulnerability scanning
 - [Cyber Portfolio](https://github.com/ikassem-cyber/cyber-portfolio): hands-on projects in SOC, SIEM, vulnerability management and incident response
 
 <h2>📚 Currently:</h2>
